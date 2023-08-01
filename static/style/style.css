@@ -1,0 +1,59 @@
+* {
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+
+}
+.head {
+    font-size: 3rem;
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+#bg{
+    background-color: rgb(8, 37, 65);
+}
+.card{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.select:hover{
+    background-color: #abcada;
+}
+.select{
+    width: 25%;
+    padding: 10px;
+    margin: 5px;
+}
+#container{
+    background-color: aliceblue;
+    text-align: center;
+}
+#form{
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5rem;
+}
+label{
+    font-size: 1.2rem;
+}
+.btn {
+    align-items: center;
+    padding: 5px 20px;
+    margin: 15px;
+    border-radius: 11px;
+    background-color: #607d8b;
+    color: aliceblue;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px black
+}
+#prediction{
+    font-size: 1.5rem;
+}
